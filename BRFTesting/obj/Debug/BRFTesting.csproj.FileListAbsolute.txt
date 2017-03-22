@@ -1,0 +1,7 @@
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\bin\Debug\BRFTesting.dll
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\bin\Debug\BRFTesting.pdb
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\obj\Debug\BRFTesting.csprojResolveAssemblyReference.cache
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\obj\Debug\BRFTesting.dll
+c:\Users\pilsneren\documents\visual studio 2015\Projects\BRF\BRFTesting\obj\Debug\BRFTesting.pdb

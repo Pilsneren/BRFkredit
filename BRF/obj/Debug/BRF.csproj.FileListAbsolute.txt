@@ -1,0 +1,9 @@
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\bin\Debug\BRF.exe.config
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\bin\Debug\BRF.exe
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\bin\Debug\BRF.pdb
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.csprojResolveAssemblyReference.cache
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.Properties.Resources.resources
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.View.Form1.resources
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.csproj.GenerateResource.Cache
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.exe
+c:\users\pilsneren\documents\visual studio 2015\Projects\BRF\BRF\obj\Debug\BRF.pdb
